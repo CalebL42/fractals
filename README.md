@@ -4,7 +4,7 @@ Rendering fractal shapes with c++ and the Simple DirectMedia Layer library
 Here are some example outputs:
 
 ## MandelBrot Set
-![Screenshot 2023-06-21 002815](https://github.com/CalebL42/fractals/assets/136949875/c46ee632-aba4-4aed-9e8e-c7b74a54ad13)
+![Screenshot 2023-06-21 002815](https://github.com/CalebL42/fractals/assets/136949875/4563e176-2769-4c3d-9010-2e56bc5c73e8)
 
 ## Julia Set (c = 0.28 + 0.008i)
 ![Screenshot 2023-06-21 002917](https://github.com/CalebL42/fractals/assets/136949875/e0ab6f91-a4da-4bb4-8cc7-c0ff2729dde8)
