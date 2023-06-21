@@ -1,5 +1,5 @@
 # fractals
-Rendering fractal shapes using Simple DirectMedia Layer (SDL)
+Rendering fractal shapes with c++ and the Simple DirectMedia Layer library
 
 Here are some example outputs:
 
